@@ -1,3 +1,3 @@
-# vZone--Unity--MokuMokuKai
+# vZone--Unity--MokuMokuKai/hohno/UnityLearnPremium/JuniorProgrammer
 
-Learning Unity and its related record and information
+Unity MokuMoku Kai（Unity もくもく会）: Learning Unity and its related activities and information
