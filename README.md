@@ -4,8 +4,9 @@ Learning Unity and its related record and information
 
 
     ./vZone--Unity--MokuMokuKai
-     ├── README.md
-     ├── hohno
+     ├── 01.memo
+     │   └── README.md
+     ├── 11.hohno
      │   ├── README.md
      │   └── UnityLearnPremium
      │       ├── CreativeCore
@@ -31,8 +32,13 @@ Learning Unity and its related record and information
      │           │       │   └── 9.Complete_this_tutorial_and_continue
      │           │       └── README.md
      │           └── README.md
-     └── 01memo
-         └── README.md
+     ├── 12.mori
+     │   └── README.md
+     ├── 13.chao
+     │   └── README.md
+     ├── 91.misc
+     ├── 99.tmp
+     └── README.md
      
-     19 directories, 10 files (Sun May 15 20:15:06 JST 2022)
+     23 directories, 12 files (Mon May 16 05:42:10 JST 2022)
 
