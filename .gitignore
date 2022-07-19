@@ -6,3 +6,11 @@
 *.swp
 *.bak
 *~
+# added by @hohno_at_kuimc at Thu Jun 30 20:28:17 JST 2022
+.#*.*
+#
+# added by @hohno_at_kuimc at Sat Jul 16 15:21:56 JST 2022
+#
+.dummy4GHCG.tsv
+.README.md-tmp*
+# -EOF-
