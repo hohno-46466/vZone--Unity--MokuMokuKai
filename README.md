@@ -28,6 +28,6 @@ Learning Unity and its related record and information
      11 directories, 10 files (Wed Jul 20 06:41:24 JST 2022)
 
 
-Note: url = git@github.com:hohno-46466/vZone--Unity--MokuMokuKai.git
-
 Note: url = https://github.com/hohno-46466/vZone--Unity--MokuMokuKai
+
+Note: url = git@github.com:hohno-46466/vZone--Unity--MokuMokuKai.git
