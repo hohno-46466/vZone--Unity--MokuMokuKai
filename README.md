@@ -31,3 +31,5 @@ Learning Unity and its related record and information
 Note: url = https://github.com/hohno-46466/vZone--Unity--MokuMokuKai
 
 Note: url = git@github.com:hohno-46466/vZone--Unity--MokuMokuKai.git
+
+-EOF-
