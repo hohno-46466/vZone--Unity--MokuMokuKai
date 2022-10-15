@@ -2,7 +2,7 @@
 
 Learning Unity and its related record and information
 
-     ./vZone--Unity--MokuMokuKai
+    ./vZone--Unity--MokuMokuKai
      ├──  01.memo/
      │   └──  README.md
      ├──  21.hohno/
@@ -15,6 +15,9 @@ Learning Unity and its related record and information
      │   │   ├──  3.JuniorProgrammer/
      │   │   │   └──  README.md
      │   │   └──  README.md
+     │   ├──  8.PrivateChallenges/
+     │   │   └──  hohno-MBP-2022P/
+     │   │       └──  My first project/
      │   └──  README.md
      ├──  22.mori/
      │   └──  README.md
@@ -25,7 +28,7 @@ Learning Unity and its related record and information
      ├──  misc/
      └──  tmp/
      
-     11 directories, 10 files (Sat Sep 24 17:45:55 JST 2022)
+     14 directories, 10 files (Wed Sep 28 13:14:41 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/vZone--Unity--MokuMokuKai
